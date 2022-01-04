@@ -1,6 +1,9 @@
 ### onehousesilver
 
 2022🎯: 1️⃣day 1️⃣commit
+Commit at least 360 days a year.
+
+⬜⬜⬜⬜⬜
 
 <a href="https://blog.naver.com/onehousesilver" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <br>
