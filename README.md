@@ -1,5 +1,8 @@
 ### onehousesilver
+
 <a href="https://blog.naver.com/onehousesilver" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+<a href="https://velog.io/@onehousesilver" target="_blank"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat&logo=V&logoColor=white"/></a>
+
 <br>
 
 2022🎯: 1️⃣day 1️⃣commit
