@@ -6,7 +6,7 @@
 
 <br>
 
-2022🎯: 1️⃣day 1️⃣commit
+2022🎯: 1️⃣day 1️⃣commit!
 <br>
 Commit at least 360 days a year.
 
