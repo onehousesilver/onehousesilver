@@ -10,7 +10,9 @@
 <br>
 Commit at least 360 days a year.
 
-⬜⬜⬜⬜⬜
+⬜⬜⬜⬜
+<br>
+2022-01-30: Lunar New Year holiday
 
 ### Contact 👀
 onehousesilver@gmail.com 💌
