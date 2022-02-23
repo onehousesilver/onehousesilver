@@ -7,9 +7,8 @@
 <br>
 
 2022🎯: 1️⃣day 1️⃣commit!
->> 의미있는 commit 하기!
+> 의미있는 commit 하기!
 <br>
-Commit at least 360 days a year.
 
 ### Contact 👀
 onehousesilver@gmail.com 💌
