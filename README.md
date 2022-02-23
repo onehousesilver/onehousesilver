@@ -7,12 +7,9 @@
 <br>
 
 2022🎯: 1️⃣day 1️⃣commit!
+>> 의미있는 commit 하기!
 <br>
 Commit at least 360 days a year.
-
-⬜⬜⬜⬜
-<br>
-2022-01-30: Lunar New Year holiday
 
 ### Contact 👀
 onehousesilver@gmail.com 💌
