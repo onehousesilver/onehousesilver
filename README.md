@@ -2,7 +2,7 @@
 
 <a href="https://blog.naver.com/onehousesilver" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <a href="https://velog.io/@onehousesilver" target="_blank"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat&logo=V&logoColor=white"/></a>
-<a href="https://eminent-camp-2e1.notion.site/8ec66624a620445da46bcb11f1982357" target="_blank"><img src="https://img.shields.io/badge/Notion-000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://eminent-camp-2e1.notion.site/6359a150063144499a268945933ae010" target="_blank"><img src="https://img.shields.io/badge/Notion-000?style=flat&logo=Notion&logoColor=white"/></a>
 
 <br>
 
